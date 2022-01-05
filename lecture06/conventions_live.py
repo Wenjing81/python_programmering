@@ -11,14 +11,14 @@ def string_comparison_method(first_string:str, second_string:str):
 
 
 def main():
-    print("i'm in the main method")
+    print("I'm in the main method")
     
-    a=100
-    b =1000
-    print(a/b)
+a=100
+b =1000
+print(a/b)
 
-    string_to_print =string_comparison_method("hello world","Hello World")
-    print(string_to_print)
+string_to_print =string_comparison_method("hello world","Hello World")
+print(string_to_print)
 
 
     
